@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">カスタムウィジェット</string>
+    <string name="app_widget_description">カスタムウィジェット</string>
+    <string name="color_select_description">文字色を指定してください。</string>
+</resources>
